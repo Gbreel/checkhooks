@@ -1,0 +1,14 @@
+.movieCard {
+  width: 15rem;
+  background-color: black;
+  color: blanchedalmond;
+  margin: 5%;
+  border: 1px solid white;
+  height: 80%;
+}
+.img {
+  height: 300px;
+}
+.title {
+  height: 50px;
+}

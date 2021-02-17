@@ -1,0 +1,15 @@
+.filterPart {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 35%;
+  margin-top: 10px;
+}
+.List {
+  justify-content: space-around;
+}
+.movieapp {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
